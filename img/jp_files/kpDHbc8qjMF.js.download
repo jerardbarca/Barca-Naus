@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["3gv5U"]); }
+
+__d("isWorkplaceDotComURI",[],(function(a,b,c,d,e,f){var g=new RegExp("(^|\\.)workplace\\.com$","i");function a(a){return a.getProtocol()==="https"&&g.test(a.getDomain())}e.exports=a}),null);

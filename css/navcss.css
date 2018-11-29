@@ -1,0 +1,30 @@
+.nav {
+	background-color: #08659B;
+	overflow: hidden;
+	
+
+}
+.nav a{
+	
+	float: center;
+	color: black;
+	text-align: center;
+	padding: 17px;
+	font-size: 28;
+	
+}
+.nav a:hover {
+	background-color: Black;
+	color: white;
+	}
+.nav a.active {
+	color: red;
+	background-color: #379ED9;
+}
+h1 {
+	font-align: center;
+}
+p {
+	margin: 25px 50px 75px 100px;
+}
+}

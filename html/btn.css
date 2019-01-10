@@ -1,0 +1,33 @@
+.btn
+	{
+		border: 1px solid white;
+		padding: 10px 30px;
+		color: white;
+		text-decoration: none;
+		margin-right: 5px;
+		font-size: 13px;
+		text-transform: uppercase;	
+	}
+	
+	.btn-one
+	{
+		background-color: none;
+		font-family: "chiller";
+		<p> The Neri has been <i> SLAIN </> </p>
+	}
+	
+	.btn-two
+	{
+		font-family: "chiller";
+	}	
+	
+	.btn-one:hover
+	{
+		background-color: darkblue;
+		transition: all 0.2s ease-in;
+	}
+	.btn-two:hover
+	{
+		background-color: darkblue;
+		transition: all 0.2s ease-in;
+	} 

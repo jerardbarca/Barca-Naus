@@ -12,36 +12,6 @@
 		background-position: center;
 	}
 	
-	.nav
-	{
-		float: right;
-		list-style: none;
-		margin-top: 30px;
-	}
-	
-	.nav li
-	{
-		display: inline-block;
-	}
-	
-	.nav li a
-	{
-		color: white;
-		text-decoration: none;
-		padding: 5px 20px;
-		font-family: "Roboto", "sans-serif;
-		font-size: 15px;
-	}
-	
-	.main-nav li.nice a
-	{
-		border: 1px solid white;
-	}
-	
-	.main-nav li a:hover
-	{
-		border: 1px solid white;
-	}
 	
 	.logo
 	{
@@ -85,35 +55,38 @@
 		margin-left: 440px;
 	}
 	
-	.btn
+	.nav
+	{
+		float: right;
+		list-style: none;
+		margin-top: 30px;
+		overflow: hidden;
+		
+	}
+	
+	.nav li
+	{
+		display: inline-block;
+	}
+	
+	.nav li a
+	{
+		color: white;
+		text-decoration: none;
+		padding: 5px 20px;
+		font-family: "Roboto", "sans-serif;
+		font-size: 15px;
+	}
+	
+	.main-nav li.nice a
 	{
 		border: 1px solid white;
 		padding: 10px 30px;
-		color: white;
-		text-decoration: none;
-		margin-right: 5px;
-		font-size: 13px;
-		text-transform: uppercase;	
+	}
+
+.main-nav li .nice a:hover
+	{
+		border: 1px solid white;
+		padding: 10px 30px;
 	}
 	
-	.btn-one
-	{
-		background-color: none;
-		font-family: "chiller";
-	}
-	
-	.btn-two
-	{
-		font-family: "chiller";
-	}	
-	
-	.btn-one:hover
-	{
-		background-color: darkblue;
-		transition: all 0.2s ease-in;
-	}
-	.btn-two:hover
-	{
-		background-color: darkblue;
-		transition: all 0.2s ease-in;
-	} 

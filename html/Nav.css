@@ -1,0 +1,11 @@
+.main-nav li.nice a
+	{
+		border: 1px solid white;
+		padding: 10px 30px;
+	}
+
+.main-nav li .nice a:hover
+	{
+		border: 1px solid white;
+		padding: 10px 30px;
+	}

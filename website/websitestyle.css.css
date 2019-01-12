@@ -1,5 +1,5 @@
 .nav {
-	background-color: #08659B;
+	background-color: yellow;
 	overflow: hidden;
 	
 
@@ -9,7 +9,7 @@
 	float: center;
 	color: black;
 	text-align: center;
-	padding: 20px;
+	padding: 15px;
 	font-size: 28;
 	
 }
@@ -20,16 +20,4 @@
 .nav a.active {
 	color: red;
 	background-color: #379ED9;
-}
-h1 {
-	font-align: center;
-}
-p {
-	margin: 25px 50px 75px 100px;
-}
-header {
-	background-image: url(jerard.jpeg)
-	height: 100vh;
-	background-size: cover;
-	background-position: center;
 }

@@ -20,4 +20,10 @@
 .nav a.active {
 	color: red;
 	background-color: #379ED9;
+	
+}
+body {
+	background-color:Black;
+	background-image: url(glock.jpeg);
+	
 }

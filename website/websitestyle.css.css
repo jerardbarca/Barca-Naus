@@ -25,5 +25,7 @@
 body {
 	background-color:Black;
 	background-image: url(glock.jpeg);
-	
+	background-position: center;
+	background-size: cover;
+
 }

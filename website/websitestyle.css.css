@@ -29,3 +29,22 @@ body {
 	background-size: cover;
 
 }
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 60px;
+	
+	
+}
+
+p{
+	text-align: center;
+	color: white;
+	font-size: 38px;
+}
+.nice {
+	padding: 30px 30px ;
+	margin: 50px;
+		
+	
+}
